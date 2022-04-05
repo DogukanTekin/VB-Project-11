@@ -1,0 +1,13 @@
+E:\C# Visual Studio\VisualBasic_VizeOncesiSon\bin\Debug\VisualBasic_VizeOncesiSon.exe.config
+E:\C# Visual Studio\VisualBasic_VizeOncesiSon\bin\Debug\VisualBasic_VizeOncesiSon.exe
+E:\C# Visual Studio\VisualBasic_VizeOncesiSon\bin\Debug\VisualBasic_VizeOncesiSon.pdb
+E:\C# Visual Studio\VisualBasic_VizeOncesiSon\bin\Debug\VisualBasic_VizeOncesiSon.xml
+E:\C# Visual Studio\VisualBasic_VizeOncesiSon\obj\Debug\VisualBasic_VizeOncesiSon.vbproj.AssemblyReference.cache
+E:\C# Visual Studio\VisualBasic_VizeOncesiSon\obj\Debug\VisualBasic_VizeOncesiSon.vbproj.SuggestedBindingRedirects.cache
+E:\C# Visual Studio\VisualBasic_VizeOncesiSon\obj\Debug\VisualBasic_VizeOncesiSon.Form1.resources
+E:\C# Visual Studio\VisualBasic_VizeOncesiSon\obj\Debug\VisualBasic_VizeOncesiSon.Resources.resources
+E:\C# Visual Studio\VisualBasic_VizeOncesiSon\obj\Debug\VisualBasic_VizeOncesiSon.vbproj.GenerateResource.cache
+E:\C# Visual Studio\VisualBasic_VizeOncesiSon\obj\Debug\VisualBasic_VizeOncesiSon.vbproj.CoreCompileInputs.cache
+E:\C# Visual Studio\VisualBasic_VizeOncesiSon\obj\Debug\VisualBasic_VizeOncesiSon.exe
+E:\C# Visual Studio\VisualBasic_VizeOncesiSon\obj\Debug\VisualBasic_VizeOncesiSon.xml
+E:\C# Visual Studio\VisualBasic_VizeOncesiSon\obj\Debug\VisualBasic_VizeOncesiSon.pdb
